@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+
+}
+
+input{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+}
+
+button{
+    margin-top: 5px;
+    background-color:#5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+}
+
+#delete-btn{
+    background-color: white;
+    color: #5f9341;
+}
+
+ul{
+    list-style: none;
+    margin-top: 20px;
+    padding-left: 0;
+    
+}
+
+li{
+    margin-left: 0;
+    margin-top: 5px;
+}
+
+a{
+    color:#5f9341;
+}
+
+
+
+/* #box{
+    background-color: lightseagreen;
+    color: white;
+    padding: 40px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px auto;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+/* h1{
+    color: goldenrod;
+    font-size: 3em;
+}
+
+#message-el{
+    font-style: oblique;
+}
+
+p{
+    font-size: 1.5em;
+} 
+
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    border: none;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#new-card-el{
+    margin-top: 5px;
+}
+
+#apple-shelf{
+    background-color: #016f32;
+    padding: 1em;
+    width: 80px;
+    border: solid;
+}
+
+#orange-shelf{
+    background-color: #016f32;
+    margin-top: 10px;
+    padding: 1em;
+    width: 80px;
+    border: solid;
+} */
